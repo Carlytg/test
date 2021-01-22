@@ -1,6 +1,6 @@
 # test
 test
-sam 
-monica
-sam is better than monica 
+sam, 
+monica,
+sam is better than monica, 
 carly > monica 
