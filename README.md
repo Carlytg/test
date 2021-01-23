@@ -3,5 +3,5 @@ test
 sam, 
 monica,
 sam is better than monica, 
-carly > monica  
+carly > monica, 
 Kailah is (not) amazing
