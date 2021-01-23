@@ -3,4 +3,4 @@
 sam, 
 sam is better than monica, 
 carly > monica, 
-Kailah is (not) amazing
+kailah is (not) amazing
